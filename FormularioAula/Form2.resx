@@ -118,16 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="tbLista.Text" xml:space="preserve">
-    <value>Luis Simon    -  GitHub
+    <value>Luis Simon    -  GitHub - Concluído
 Chaiane        -    RadioButton
 Felipe              -     CheckBox
 Marcelo Kaleu -    CheckedListBox
 Patrick Nissel   -    DateTimePicker
 Rafael Broch    -    ComboBox
 Rudimar           -    Barra de Menu com as opções Cadastros, Relatórios
-Zaqueu            -     MonthCalendar
-
-
-</value>
+Zaqueu            -     MonthCalendar</value>
   </data>
 </root>
