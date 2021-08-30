@@ -36,5 +36,12 @@ namespace FormularioAula
             tbLista.Clear();
             tbNome.Focus();
         }
+
+        private void btn_MostraSimonForm3_Click(object sender, EventArgs e)
+        {
+            SimonForm3 simonForm3 = new simonForm3();
+
+            simonForm3.show();
+        }
     }
 }
