@@ -13,7 +13,6 @@ C:\Users\Luís Simon\source\repos\Desenvolvimento de Sistemas de Informacao\Form
 C:\Users\Luís Simon\source\repos\Desenvolvimento de Sistemas de Informacao\FormularioAula\bin\Debug\FormularioAula.pdb
 C:\Users\Luís Simon\source\repos\Desenvolvimento de Sistemas de Informacao\FormularioAula\obj\Debug\FormularioAula.csproj.AssemblyReference.cache
 C:\Users\Luís Simon\source\repos\Desenvolvimento de Sistemas de Informacao\FormularioAula\obj\Debug\FormularioAula.Form1.resources
-C:\Users\Luís Simon\source\repos\Desenvolvimento de Sistemas de Informacao\FormularioAula\obj\Debug\FormularioAula.Form2.resources
 C:\Users\Luís Simon\source\repos\Desenvolvimento de Sistemas de Informacao\FormularioAula\obj\Debug\FormularioAula.Properties.Resources.resources
 C:\Users\Luís Simon\source\repos\Desenvolvimento de Sistemas de Informacao\FormularioAula\obj\Debug\FormularioAula.csproj.GenerateResource.cache
 C:\Users\Luís Simon\source\repos\Desenvolvimento de Sistemas de Informacao\FormularioAula\obj\Debug\FormularioAula.csproj.CoreCompileInputs.cache
